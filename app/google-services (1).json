@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "742620538432",
+    "firebase_url": "https://eye-messenger.firebaseio.com",
+    "project_id": "eye-messenger",
+    "storage_bucket": "eye-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742620538432:android:e9a2c4ce0d367c15",
+        "android_client_info": {
+          "package_name": "com.example.android.eyemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742620538432-4pnchg51mob2jdq9c8stgktitltaibm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.eyemessenger",
+            "certificate_hash": "e78df9460d9dabca69b81581a551d86fb9e07a0a"
+          }
+        },
+        {
+          "client_id": "742620538432-5qqi00kerujlov805bovet73rvb8fmg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIlaCGJFYG3lBgwXABQ3K_PsBmrgddbnw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742620538432-5qqi00kerujlov805bovet73rvb8fmg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
